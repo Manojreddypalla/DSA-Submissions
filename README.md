@@ -81,8 +81,17 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
