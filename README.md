@@ -90,8 +90,17 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
