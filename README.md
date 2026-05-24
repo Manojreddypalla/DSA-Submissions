@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,11 +102,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +121,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
