@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End-->
