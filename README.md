@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
