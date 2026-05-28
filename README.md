@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [3093-longest-common-suffix-queries](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3093-longest-common-suffix-queries](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
