@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1266-minimum-time-visiting-all-points](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0268-missing-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
