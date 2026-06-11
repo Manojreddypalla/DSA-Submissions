@@ -44,20 +44,24 @@ The focus is on understanding:
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
