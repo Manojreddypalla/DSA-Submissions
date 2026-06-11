@@ -38,3 +38,19 @@ The focus is on understanding:
 - Common patterns between problems
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
+<!---LeetCode Topics End-->
