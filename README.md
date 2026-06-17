@@ -45,6 +45,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -61,6 +62,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -78,4 +80,8 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
