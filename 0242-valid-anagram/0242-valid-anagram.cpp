@@ -1,0 +1,27 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if(s.size()!=t.size())
+        {
+            return false;
+        }
+        sort(s.begin(),s.end());
+        sort(t.begin(),t.end());
+        int j=0;
+        for(int i=0;i<s.size();i++)
+        {   
+            if(s[i]==t[i])
+            {
+                j++;
+            }
+        }
+        if(j==s.size())
+        {
+            return true;
+        }
+        return false;
+
+
+        
+    }
+};
