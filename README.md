@@ -75,6 +75,7 @@ The focus is on understanding:
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -92,8 +93,10 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
