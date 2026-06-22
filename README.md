@@ -78,6 +78,7 @@ The focus is on understanding:
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,10 +100,15 @@ The focus is on understanding:
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
