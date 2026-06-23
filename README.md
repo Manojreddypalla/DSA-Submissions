@@ -111,4 +111,12 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
