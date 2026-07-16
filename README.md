@@ -93,6 +93,7 @@ The focus is on understanding:
 | [0001-two-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +120,8 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
