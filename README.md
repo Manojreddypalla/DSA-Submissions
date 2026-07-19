@@ -73,6 +73,7 @@ The focus is on understanding:
 | [0035-search-insert-position](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ The focus is on understanding:
 | [0035-search-insert-position](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
