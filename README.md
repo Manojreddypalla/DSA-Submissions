@@ -70,6 +70,7 @@ The focus is on understanding:
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## String Matching
@@ -91,6 +92,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
