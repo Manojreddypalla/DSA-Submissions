@@ -94,6 +94,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -133,5 +134,6 @@ The focus is on understanding:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
