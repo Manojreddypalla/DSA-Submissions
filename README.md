@@ -99,6 +99,7 @@ The focus is on understanding:
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
@@ -136,4 +137,8 @@ The focus is on understanding:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
