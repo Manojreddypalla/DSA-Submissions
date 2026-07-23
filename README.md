@@ -79,6 +79,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -98,6 +99,7 @@ The focus is on understanding:
 | [0035-search-insert-position](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0179-largest-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -114,6 +116,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Counting
@@ -141,4 +144,8 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0643-maximum-average-subarray-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
