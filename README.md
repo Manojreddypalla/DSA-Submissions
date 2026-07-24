@@ -78,6 +78,7 @@ The focus is on understanding:
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
@@ -109,6 +110,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
@@ -150,4 +152,8 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Medium/0179-largest-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
