@@ -83,6 +83,7 @@ The focus is on understanding:
 | [0242-valid-anagram](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ The focus is on understanding:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Manojreddypalla/DSA-Submissions/tree/main/C++/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
